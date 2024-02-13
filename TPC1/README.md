@@ -12,12 +12,20 @@ Distribuição de atletas por faixas etárias.
 O programa possui as seguintes funcionalidades:
 
 Parse CSV: Lê e analisa o arquivo CSV, retornando o cabeçalho e os dados.
+
 Obter Modalidades: Retorna uma lista ordenada das modalidades desportivas.
+
 Percentagem de Aptos e Inaptos: Calcula a percentagem de atletas aptos e inaptos.
+
 Faixas Etárias: Agrupa os atletas por faixas etárias.
+
 
 # Execução do Programa
 Abrir o terminal e navegar até o diretório onde o arquivo Python está localizado.
+
 Executar o programa com o comando cat emd.csv | python3 tpc1.py
+
 O programa irá ler os dados do arquivo CSV e realizar as análises.
+
 Os resultados serão escritos em um arquivo chamado results.txt.
+
