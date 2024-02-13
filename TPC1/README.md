@@ -1,6 +1,5 @@
-# Projeto de Análise de Dados de Atletas
-Sobre o Projeto
-Este projeto, desenvolvido por Diogo Afonso Costa Gonçalves (a101919), consiste em um programa Python que analisa e processa os dados de atletas contidos num arquivo CSV.
+# TPC de Análise de Dados de Atletas
+Este tpc, consiste em um programa Python que analisa e processa os dados de atletas contidos num arquivo CSV.
 
 O objetivo principal é realizar análises estatísticas sobre os atletas e gerar resultados como:
 
@@ -29,3 +28,7 @@ O programa irá ler os dados do arquivo CSV e realizar as análises.
 
 Os resultados serão escritos em um arquivo chamado results.txt.
 
+# Aluno
+Diogo Afonso Costa Gonçalves
+
+A101919
